@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+div{
+    margin: auto;
+    width: 50%;
+    border: 20px solid rgb(44, 70, 44);
+    padding: 50px;
+    box-sizing:border-box;
+    height: 500px;
+  background-color: rgb(254, 138, 6);
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+   
+    
+    
+}
+button:hover{
+    background-color: rgb(197, 228, 84);
+}
+body {
+background-image: url(image_photo.jpeg);
+    background-size: cover;
+}
